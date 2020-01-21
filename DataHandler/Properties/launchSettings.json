@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DataHandler": {
+      "commandName": "Project",
+      "commandLineArgs": "-File ..\\..\\..\\Data.tsv"
+    }
+  }
+}

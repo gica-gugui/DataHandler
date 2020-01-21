@@ -1,0 +1,6 @@
+bin/
+obj/
+/packages/
+/.vs/DataHandler/v16
+/.vs/DataHandler/v15
+/.vs/DataHandler/DesignTimeBuild
